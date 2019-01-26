@@ -1,7 +1,7 @@
 image: golang:1.11.2
 
 variables:
-  REPO_NAME: gitlab.corp.local/knuth/lemonade
+  REPO_NAME: github.com/dray01/lemonade
 
 stages:
   - test

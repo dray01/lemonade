@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"strconv"
 
-	"gitlab.corp.local/knuth/lemonade/model"
-	"gitlab.corp.local/knuth/lemonade/viewmodel"
+	"github.com/dray01/lemonade/model"
+	"github.com/dray01/lemonade/viewmodel"
 )
 
 type shop struct {

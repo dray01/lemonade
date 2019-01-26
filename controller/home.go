@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"gitlab.corp.local/knuth/lemonade/model"
-	"gitlab.corp.local/knuth/lemonade/viewmodel"
+	"github.com/dray01/lemonade/model"
+	"github.com/dray01/knuth/lemonade/viewmodel"
 )
 
 type home struct {

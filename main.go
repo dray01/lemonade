@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"os"
 
-	"gitlab.corp.local/knuth/lemonade/controller"
-	"gitlab.corp.local/knuth/lemonade/middleware"
-	"gitlab.corp.local/knuth/lemonade/model"
+	"github.com/dray01/controller"
+	"github.com/dray01/middleware"
+	"github.com/dray01/lemonade/model"
 
 	_ "github.com/lib/pq"
 )

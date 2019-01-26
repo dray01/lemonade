@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"gitlab.corp.local/knuth/lemonade/viewmodel"
+	"github.com/dray01/lemonade/viewmodel"
 )
 
 type standLocator struct {
